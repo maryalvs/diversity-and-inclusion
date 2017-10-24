@@ -24,13 +24,13 @@ body {
   height: 100vh;
 }
 
-p {
+#p {
   width: 60%;
   text-align: left;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-h2 {
+#h2 {
   color: #dcd0c0;
   width: 60%;
   text-align: left;

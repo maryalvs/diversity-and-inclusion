@@ -1,6 +1,5 @@
 h1 {
   padding-left: 20px;
-  padding-top: 10px;
   color: #c0b283;
   font-family: 'Abril Fatface', cursive;
 }
@@ -66,8 +65,8 @@ h2 {
 
 #banner {
   position: fixed;
+  padding: 10px;
   margin: 0;
-  height: 75px;
   width: 100%;
   background-color: #fff;
 }

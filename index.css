@@ -15,6 +15,26 @@ body {
   height: 75px;
 }
 
+#share-buttons img {
+  width: 60px;
+  padding: 5px;
+  border: 0;
+  box-shadow: 0;
+  display: inline;
+  padding-bottom: 20px;
+  text-decoration: none !important;
+}
+
+#share-buttons img:hover {
+  width: 70px;
+  padding: 5px;
+  padding-bottom: 10px;
+  border: 0;
+  box-shadow: 0;
+  display: inline;
+  text-decoration: none !important;
+}
+
 #bottom {
   background-color: #fff;
   width: 100%;
@@ -57,7 +77,8 @@ h2 {
 }
 
 #video-border {
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 10px;
   width: 570px;
   height: 325px;
   border: 5px solid #373737;

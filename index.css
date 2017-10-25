@@ -2,6 +2,7 @@ h1 {
   padding-left: 10px;
   color: #c0b283;
   font-family: 'Abril Fatface', cursive;
+  display: inline;
 }
 
 body {
@@ -99,11 +100,20 @@ h2 {
   border: 5px solid #373737;
 }
 
+#lmu {
+  padding-top: 5px;
+  padding-right: 5px;
+  height: 36px;
+  display: inline;
+  float: right;
+}
+
 #banner {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
   position: fixed;
   padding: 10px;
   margin: 0;
   width: 100%;
   background-color: #fff;
+  display: inline;
 }

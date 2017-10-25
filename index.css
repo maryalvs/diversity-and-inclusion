@@ -100,6 +100,7 @@ h2 {
 }
 
 #banner {
+  border-bottom: 1px solid #ddd;
   position: fixed;
   padding: 10px;
   margin: 0;
